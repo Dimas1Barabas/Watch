@@ -1,0 +1,7 @@
+class Patient:
+    def __init__(self, name, surname, date):
+        self.name = name
+        self.surname = surname
+        self.date = date
+patient1 = Patient("Иван", "Иванович", 1991)
+patient2 = Patient("Вася", "Васичкин", 1889)
