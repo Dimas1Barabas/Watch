@@ -1,0 +1,7 @@
+if __name__ == '__main__':
+    p1 = Person('дима', 'никитин', 19)
+    print(p1.name, p1.surname, p1.age)
+    p2 = Dima('пётр', 'павел', 'час убавил' )
+    print(p2.name, p2.surname, p2.age)
+  #  p3 = Andreu('андрей','никитин', 15)
+   # print(Andreu)
